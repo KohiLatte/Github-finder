@@ -3,9 +3,9 @@ import UserSearch from "../users/UserSearch"
 
 function Home() {
   return (
-   <>
-    <UserSearch />
-    <UserResults />
+    <>
+      <UserSearch />
+      <UserResults />
     </>
   )
 }
